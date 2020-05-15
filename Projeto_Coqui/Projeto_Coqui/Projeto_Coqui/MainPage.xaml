@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Projeto_Coqui"
+             x:Class="Projeto_Coqui.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="lblConexao"
+            Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Button x:Name="btnConexao" 
+                Text="Testar conexão" 
+                Clicked="btnConexao_Clicked"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"/>
+
+        <Label x:Name="lblGPS"
+            Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Button x:Name="btnGPS" 
+                Text="Localização" 
+                Clicked="btnGPS_Clicked"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>

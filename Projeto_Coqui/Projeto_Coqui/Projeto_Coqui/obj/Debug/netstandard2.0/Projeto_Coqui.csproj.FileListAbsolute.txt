@@ -1,0 +1,12 @@
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\bin\Debug\netstandard2.0\Projeto_Coqui.deps.json
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\bin\Debug\netstandard2.0\Projeto_Coqui.dll
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.csprojAssemblyReference.cache
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.csproj.CoreCompileInputs.cache
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.AssemblyInfoInputs.cache
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.AssemblyInfo.cs
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\bin\Debug\netstandard2.0\Projeto_Coqui.pdb
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.dll
+C:\Users\7700385697\source\repos\Projeto_Coqui\Projeto_Coqui\Projeto_Coqui\obj\Debug\netstandard2.0\Projeto_Coqui.pdb
